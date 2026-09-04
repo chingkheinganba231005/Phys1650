@@ -23,3 +23,9 @@ Department. These materials cannot be used for commercial purposes.
 Copyright of the photos is owned by the corresponding institutions or
 photographers. Copyright, 2000, 2007, 2012, 2017, 2022 Department of Physics,
 The University of Hong Kong.
+
+## How it is published
+
+GitHub Pages serves this branch directly ("Deploy from a branch", root folder).
+Pushing to the branch republishes the site; `.nojekyll` makes Pages serve the
+HTML files as-is instead of running them through Jekyll.
